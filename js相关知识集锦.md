@@ -48,3 +48,5 @@
 [JS 中可以提升幸福度的小技巧](https://juejin.im/post/5b51e5d3f265da0f4861143c)
 
 [可能是最好的正则表达式的教程笔记了吧](https://juejin.im/post/5b5db5b8e51d4519155720d2)
+
+[弹幕是怎样炼成的](https://juejin.im/post/5be54a286fb9a049ae07641b)

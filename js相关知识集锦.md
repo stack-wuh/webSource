@@ -50,3 +50,7 @@
 [可能是最好的正则表达式的教程笔记了吧](https://juejin.im/post/5b5db5b8e51d4519155720d2)
 
 [弹幕是怎样炼成的](https://juejin.im/post/5be54a286fb9a049ae07641b)
+
+[用100行代码提升10倍效率](https://juejin.im/post/5bec223f5188250c102116b5)
+
+[年终回顾, 为你汇总一份[前端技术清单]](https://juejin.im/post/5bdfb387e51d452c8e0aa902)

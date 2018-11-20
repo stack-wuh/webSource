@@ -54,3 +54,5 @@
 [用100行代码提升10倍效率](https://juejin.im/post/5bec223f5188250c102116b5)
 
 [年终回顾, 为你汇总一份[前端技术清单]](https://juejin.im/post/5bdfb387e51d452c8e0aa902)
+
+[30 秒就能理解的 JavaScript 代码片段](https://www.css88.com/30-seconds-of-code/)(30 seconds of code)

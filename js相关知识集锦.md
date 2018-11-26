@@ -58,3 +58,9 @@
 [30 秒就能理解的 JavaScript 代码片段](https://www.css88.com/30-seconds-of-code/)(30 seconds of code)
 
 [文件上传那些事儿](https://cloud.tencent.com/developer/article/1004961)
+
+[聊一聊cookie那一些事儿](https://segmentfault.com/a/1190000004556040)
+
+[项目中可以怎么优化图片](https://juejin.im/post/5bfac3bd51882566936071e1)
+
+[viewport移动端适配](https://juejin.im/post/5bfa99e0e51d4555557d26c6)

@@ -64,3 +64,7 @@
 [项目中可以怎么优化图片](https://juejin.im/post/5bfac3bd51882566936071e1)
 
 [viewport移动端适配](https://juejin.im/post/5bfa99e0e51d4555557d26c6)
+
+[脑阔疼的webpack按需加载](https://juejin.im/post/5bf61082f265da616a474b5c)
+
+[nvm 安装及管理node版本](https://juejin.im/post/5af25c335188256732783488)

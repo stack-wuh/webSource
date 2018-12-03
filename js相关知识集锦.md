@@ -68,3 +68,5 @@
 [脑阔疼的webpack按需加载](https://juejin.im/post/5bf61082f265da616a474b5c)
 
 [nvm 安装及管理node版本](https://juejin.im/post/5af25c335188256732783488)
+
+[网页全屏模式轻松掌握[局部元素全屏展示](https://juejin.im/post/5c024ea951882548e937f6f5)

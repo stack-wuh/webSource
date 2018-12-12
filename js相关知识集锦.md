@@ -55,7 +55,13 @@
 
 [年终回顾, 为你汇总一份[前端技术清单]](https://juejin.im/post/5bdfb387e51d452c8e0aa902)
 
-[30 秒就能理解的 JavaScript 代码片段](https://www.css88.com/30-seconds-of-code/)(30 seconds of code)
+[30秒系列JSCode 30就能理解的 JavaScript 代码片段](https://www.css88.com/30-seconds-of-code/)(30 seconds of code)
+
+[30秒系列React 30-React](https://github.com/30-seconds/30-seconds-of-react)(30-seconds-of-react)
+
+[30秒系列css 30-css](https://github.com/30-seconds/30-seconds-of-css)(30-seconds-of-css)
+
+[30秒系列面试 30-interview](https://github.com/30-seconds/30-seconds-of-interviews)(30-seconds-of-interview)
 
 [文件上传那些事儿](https://cloud.tencent.com/developer/article/1004961)
 

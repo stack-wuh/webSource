@@ -70,3 +70,9 @@
 [nvm 安装及管理node版本](https://juejin.im/post/5af25c335188256732783488)
 
 [网页全屏模式轻松掌握[局部元素全屏展示](https://juejin.im/post/5c024ea951882548e937f6f5)
+
+[你不知道的Chrome调试工具技巧](https://juejin.im/post/5c09a80151882521c81168a2)
+
+[可扩展的日志管理器](https://github.com/klaussinani/signale/blob/master/docs/readme.zh_CN.md)
+
+[2019年 值得收藏的 15 个 JavaScript 和 CSS 动画库](https://mp.weixin.qq.com/s/3eNxQBcZWcLmSrUYWgz52A)

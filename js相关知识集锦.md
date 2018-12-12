@@ -63,6 +63,8 @@
 
 [30秒系列面试 30-interview](https://github.com/30-seconds/30-seconds-of-interviews)(30-seconds-of-interview)
 
+[30秒系列JS](https://github.com/30-seconds/30-seconds-of-code)(30-seconds-of-js)
+
 [文件上传那些事儿](https://cloud.tencent.com/developer/article/1004961)
 
 [聊一聊cookie那一些事儿](https://segmentfault.com/a/1190000004556040)

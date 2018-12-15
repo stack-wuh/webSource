@@ -84,3 +84,7 @@
 [可扩展的日志管理器](https://github.com/klaussinani/signale/blob/master/docs/readme.zh_CN.md)
 
 [2019年 值得收藏的 15 个 JavaScript 和 CSS 动画库](https://mp.weixin.qq.com/s/3eNxQBcZWcLmSrUYWgz52A)
+
+[Axios 中文文档简书](https://www.jianshu.com/p/7a9fbcbb1114)
+
+[新年献礼 技术胖262集前端免费视频 让您走的更容易些](https://juejin.im/post/5c11bf145188252704368b98)(全是一些视频哦)

@@ -53,7 +53,7 @@
 
 [用100行代码提升10倍效率](https://juejin.im/post/5bec223f5188250c102116b5)
 
-[年终回顾, 为你汇总一份[前端技术清单]](https://juejin.im/post/5bdfb387e51d452c8e0aa902)
+[年终回顾, 为你汇总一份\[前端技术清单\]](https://juejin.im/post/5bdfb387e51d452c8e0aa902)
 
 [30秒系列JSCode 30就能理解的 JavaScript 代码片段](https://www.css88.com/30-seconds-of-code/)(30 seconds of code)
 
@@ -88,3 +88,9 @@
 [Axios 中文文档简书](https://www.jianshu.com/p/7a9fbcbb1114)
 
 [新年献礼 技术胖262集前端免费视频 让您走的更容易些](https://juejin.im/post/5c11bf145188252704368b98)(全是一些视频哦)
+
+[手摸手，带你用vue撸后台 系列一（基础篇）](https://juejin.im/post/59097cd7a22b9d0065fb61d2)
+
+[2019年React学习路线图](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490135&idx=1&sn=dbbb12b2c7c4469aec6bb4b3a4a3b65e&chksm=f951af14ce262602a85acb6a932b1c2e7e2c8c4e659b9aa3067dda6e3a89b5baa198cab475b1&scene=0&xtrack=1#rd)
+
+[2019Vue学习路线](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490087&idx=1&sn=fb16b7826416244642cdab69a52848c0&chksm=f951af64ce262672982f1896976f594589925a0b2730801715247ae40d7ee06c2960d6b6a338&token=1582750074&lang=zh_CN&scene=21#wechat_redirect)

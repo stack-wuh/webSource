@@ -97,3 +97,7 @@
 
 
 [前端图片canvas，file，blob，DataURL等格式转换](https://juejin.im/post/5b5187da51882519ec07fa41)
+
+[React 和 Vue 到底谁更牛？听听尤雨溪怎么说：15篇前端热文回看](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651555634&idx=1&sn=aa28971c6e63f5404b24aa1f88d7e39a&chksm=802550f3b752d9e569376bd063cc5bc6fc6a5a2a6f8879e5b2e6e17d42d106349b10c10eab9d&mpshare=1&scene=1&srcid=01024VsFvdos8MQDbwuBij4K#rd)
+
+[2019年，全栈开发者应该学些什么](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490212&idx=1&sn=b9d8f51551baaeb9cdb3c7ebb02ccc9b&chksm=f951afe7ce2626f1926f2999e64a019f9ac7058642a83d2650eaf4b096cd8600a66a91cc85d5&scene=0&xtrack=1#rd)

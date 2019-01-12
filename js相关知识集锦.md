@@ -105,3 +105,7 @@
 [搭建持续集成, 基于vuepress](https://zhuanlan.zhihu.com/p/36390666)
 
 [webpack与Gulp](https://www.jianshu.com/p/b1022d224817)
+
+[前端开发规范：命名规范、html规范、css规范、js规范](https://juejin.im/post/592d4a5b0ce463006b43b6da)
+
+[NPM-PACKAGE READ SOME](https://github.com/parro-it/awesome-micro-npm-packages)(npm包阅读记录)

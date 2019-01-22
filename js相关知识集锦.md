@@ -3,7 +3,7 @@
 
 [javascript 标准参考教程](http://javascript.ruanyifeng.com/htmlapi/requestanimationframe.html)(阮一峰老师标注)
 
-[深入理解js原型与闭包](http://www.cnblogs.com/wangfupeng1988/p/3977987.html)
+[深入理解js原型与闭包](http://www.cnblogs.com/wangfupeng1988/p/3977987.html)(详细的解说了js原型链带图演示)
 
 [javascript复杂判断的更优雅写法](https://juejin.im/post/5bdfef86e51d453bf8051bf8)
 
@@ -109,3 +109,7 @@
 [前端开发规范：命名规范、html规范、css规范、js规范](https://juejin.im/post/592d4a5b0ce463006b43b6da)
 
 [NPM-PACKAGE READ SOME](https://github.com/parro-it/awesome-micro-npm-packages)(npm包阅读记录)
+
+[最全的前端下载总结](https://juejin.im/post/5c3c4b3551882524a5420119)
+
+[《JavaScript设计模式与开发实践》最全知识点汇总大全](https://juejin.im/post/5c2e10a76fb9a049c0432697)

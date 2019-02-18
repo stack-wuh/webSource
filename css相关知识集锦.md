@@ -8,3 +8,7 @@
 [CSS 常见布局方式](https://juejin.im/post/599970f4518825243a78b9d5)
 
 [CSS Inspiration](https://github.com/chokcoco/CSS-Inspiration)
+
+[css flexbox](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+
+[30 seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)

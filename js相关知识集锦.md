@@ -119,3 +119,5 @@
 [一篇文章构建你的Node知识体系](https://juejin.im/post/5c4c0ee8f265da61117aa527)
 
 [如何在2019年修炼成为一个高阶的前端开发工程师](https://www.liayal.com/article/5c6f5ed3c0ab13505eeefab7)
+
+[个人分享--web前端学习资源分享](https://juejin.im/post/5a0c1956f265da430a501f51)

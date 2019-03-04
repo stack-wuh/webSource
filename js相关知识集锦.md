@@ -117,3 +117,5 @@
 [2018最佳前端动效集锦](https://juejin.im/post/5c2e10a76fb9a049c0432697)
 
 [一篇文章构建你的Node知识体系](https://juejin.im/post/5c4c0ee8f265da61117aa527)
+
+[如何在2019年修炼成为一个高阶的前端开发工程师](https://www.liayal.com/article/5c6f5ed3c0ab13505eeefab7)

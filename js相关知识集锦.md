@@ -121,3 +121,5 @@
 [如何在2019年修炼成为一个高阶的前端开发工程师](https://www.liayal.com/article/5c6f5ed3c0ab13505eeefab7)
 
 [个人分享--web前端学习资源分享](https://juejin.im/post/5a0c1956f265da430a501f51)
+
+[七牛云的断点续传](https://www.kancloud.cn/thinkphp/qiniu-guide/38376)(看云 - 七牛云的断点续传)

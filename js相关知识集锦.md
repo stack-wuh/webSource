@@ -123,3 +123,5 @@
 [个人分享--web前端学习资源分享](https://juejin.im/post/5a0c1956f265da430a501f51)
 
 [七牛云的断点续传](https://www.kancloud.cn/thinkphp/qiniu-guide/38376)(看云 - 七牛云的断点续传)
+
+[[盘点] 项目中可以怎么优化图片](https://juejin.im/post/5bfac3bd51882566936071e1)

@@ -125,3 +125,5 @@
 [七牛云的断点续传](https://www.kancloud.cn/thinkphp/qiniu-guide/38376)(看云 - 七牛云的断点续传)
 
 [[盘点] 项目中可以怎么优化图片](https://juejin.im/post/5bfac3bd51882566936071e1)
+
+[一个合格的中级前端工程师必须要掌握的 28 个 JavaScript 技巧](https://juejin.im/post/5cef46226fb9a07eaf2b7516)

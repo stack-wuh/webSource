@@ -127,3 +127,7 @@
 [[盘点] 项目中可以怎么优化图片](https://juejin.im/post/5bfac3bd51882566936071e1)
 
 [一个合格的中级前端工程师必须要掌握的 28 个 JavaScript 技巧](https://juejin.im/post/5cef46226fb9a07eaf2b7516)
+
+[关于axois 请求超时即发起重试的解决方案](https://www.imooc.com/article/32925?block_id=tuijian_wz)
+
+[灵活运用JavaScript开发技巧](https://juejin.im/post/5cc7afdde51d456e671c7e48)

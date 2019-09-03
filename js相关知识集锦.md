@@ -127,3 +127,9 @@
 [[盘点] 项目中可以怎么优化图片](https://juejin.im/post/5bfac3bd51882566936071e1)
 
 [一个合格的中级前端工程师必须要掌握的 28 个 JavaScript 技巧](https://juejin.im/post/5cef46226fb9a07eaf2b7516)
+
+[JS函数式编程](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch2.html#%E4%B8%BA%E4%BD%95%E9%92%9F%E7%88%B1%E4%B8%80%E7%AD%89%E5%85%AC%E6%B0%91)
+
+[ReactRouter-V5免费图文视频教程](https://juejin.im/post/5d50dd4ff265da039a2879cd#heading-16)
+
+[从图片优化说起](https://cjting.me/2019/07/29/image-optimization/)

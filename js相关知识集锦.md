@@ -133,3 +133,9 @@
 [ReactRouter-V5免费图文视频教程](https://juejin.im/post/5d50dd4ff265da039a2879cd#heading-16)
 
 [从图片优化说起](https://cjting.me/2019/07/29/image-optimization/)
+
+[21 个 React 性能优化技巧](https://www.infoq.cn/article/KVE8xtRs-uPphptq5LUz)
+
+[create-react-app 开启修饰器Decorator语法](https://segmentfault.com/a/1190000016767551)
+
+[react-router 配合生成面包屑](https://pjchender.blogspot.com/2018/11/react-react-router-dynamic-breadcrumb.html)

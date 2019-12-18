@@ -138,4 +138,4 @@
 
 [create-react-app 开启修饰器Decorator语法](https://segmentfault.com/a/1190000016767551)
 
-[react-router 配合生成面包屑](https://pjchender.blogspot.com/2018/11/react-react-router-dynamic-breadcrumb.html)
+[react-router react-router-config 配合生成面包屑](https://pjchender.blogspot.com/2018/11/react-react-router-dynamic-breadcrumb.html)

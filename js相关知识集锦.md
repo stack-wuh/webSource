@@ -139,3 +139,5 @@
 [create-react-app 开启修饰器Decorator语法](https://segmentfault.com/a/1190000016767551)
 
 [react-router react-router-config 配合生成面包屑](https://pjchender.blogspot.com/2018/11/react-react-router-dynamic-breadcrumb.html)
+
+[通过File API 使用JavaScript读取文件](https://www.html5rocks.com/zh/tutorials/file/dndfiles/)

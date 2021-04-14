@@ -18,11 +18,6 @@
 
 ### [mongodb相关][mongodb]
 
-### 一起参与
-
-> 微信： wuh131420       
-> qq: 724132485
-
 
 [uu]: https://github.com/stack-wuh/webSource/blob/master/%E5%B8%B8%E7%94%A8%E7%BD%91%E7%AB%99.md
 [interview]: https://github.com/stack-wuh/webSource/blob/master/%E9%9D%A2%E8%AF%95%E9%9B%86%E9%94%A6.md
